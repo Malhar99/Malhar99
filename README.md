@@ -34,7 +34,7 @@
 <a href="mailto:rushichandalia@gmail.com" target="_blank">
   <img align="center" alt="Rushi's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
-<a href="www.linkedin.com/in/rushi-chandalia/" target="_blank">
+<a href="https://www.linkedin.com/in/rushi-chandalia/" target="_blank">
   <img align="center" alt="Rushi's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
@@ -44,7 +44,7 @@
 <a href="https://www.instagram.com/rushi_chandalia/" target="_blank">
   <img align="center" alt="Deep's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
-<a href="https://www.reddit.com/user/RushiC/" target="_blank">
+<a href="https://www.reddit.com/user/RushiC4/" target="_blank">
   <img align="center" alt="Deep's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
 
