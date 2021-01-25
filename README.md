@@ -1,5 +1,5 @@
 <!--Header-->
-<h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !!
+<h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="30px" height="30px" > !!
 <a href="#">
   <img alt="Rushi's Profile Views" src="https://komarev.com/ghpvc/?username=RushiChandalia&color=blue" />
 </a>
