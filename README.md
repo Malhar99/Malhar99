@@ -33,26 +33,26 @@
 <p align="center">
 <a href="mailto:rushichandalia@gmail.com" target="_blank">
   <img align="center" alt="Rushi's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
-</a>
+</a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/rushi-chandalia/" target="_blank">
   <img align="center" alt="Rushi's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+</a>&nbsp&nbsp
 
 <a href="https://twitter.com/ChandaliaRushi" target="_blank">
   <img align="center" alt="Deep's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
+</a>&nbsp&nbsp
 <a href="https://www.instagram.com/rushi_chandalia/" target="_blank">
   <img align="center" alt="Deep's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
+</a>&nbsp&nbsp
 <a href="https://www.reddit.com/user/RushiC4/" target="_blank">
   <img align="center" alt="Deep's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
-
+&nbsp&nbsp
 <a href="https://discord.gg/kyevc9w6" target="_blank">
   <img align="center" alt="Deep's Discord" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
 </a>
 </p>
-
+&nbsp&nbsp
 <h3 align="center">Show some :heart: by starring some of the repositories!</h3>
 
 <!--OLD-->
