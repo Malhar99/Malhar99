@@ -1,5 +1,5 @@
 <!--Header-->
-<h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="30px" height="30px" > !!
+<h1>Welcome to Matrix!! <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="30px" height="30px" > !!
 <a href="#">
   <img alt="Rushi's Profile Views" src="https://komarev.com/ghpvc/?username=RushiChandalia&color=blue" />
 </a>
@@ -10,7 +10,7 @@
 
 <!--Mid GIF-->
 </hr>
-<img align="center" src="https://github.com/RushiChandalia/RushiChandalia/blob/master/imgs/dino.gif" />
+<img align="center" src="https://github.com/RushiChandalia/RushiChandalia/blob/master/imgs/giphy.gif"  width= "90%" height = "350px"/>
 </hr>
 </br>
 
