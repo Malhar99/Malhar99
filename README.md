@@ -1,7 +1,7 @@
 <!--Header-->
 <h1>Welcome to Matrix!! <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="35px" height="35px" > !!
 <a href="#">
-  <img alt="Rushi's Profile Views" src="https://komarev.com/ghpvc/?username=RushiChandalia&color=blue" />
+  <img alt="Malhar's Profile Views" src="https://komarev.com/ghpvc/?username=RushiChandalia&color=blue" />
 </a>
 <a href="https://github.com/RushiChandalia?tab=followers">
   <img alt="RushiChandalia's Profile Views" src="https://img.shields.io/github/followers/RushiChandalia.svg?style=flat&label=Follow" />
