@@ -10,7 +10,7 @@
 
 <!--Mid GIF-->
 </hr>
-<img align="center" src="https://github.com/Malhar99/blob/master/imgs/giphy.gif"  width= "90%" height = "350px"/>
+<img align="center" src="https://github.com/Malhar99/Malhar99/blob/master/imgs/giphy.gif"  width= "90%" height = "350px"/>
 </hr>
 </br>
 
